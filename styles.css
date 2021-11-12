@@ -1,0 +1,34 @@
+h1{
+	color:darkblue;
+}
+.button{
+	width: 120px;
+	color:white;
+	background-color: green;
+	border-radius: 25px;
+}
+.button:hover{
+	background-color: darkblue;
+}
+.button1{
+	width: 120px;
+	background-color: red;
+	border-radius: 25px;
+}
+.button1:hover{
+	background-color: grey;
+}
+.button1 a{
+	text-decoration: none;
+	color: white;
+	
+}
+hr{
+	padding: 10px;
+	background-color: black;
+	margin-top: 30px;
+
+	}
+.huda{
+	margin-bottom: 20px;
+	}
